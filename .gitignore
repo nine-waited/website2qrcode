@@ -1,0 +1,5 @@
+﻿.DS_Store
+Thumbs.db
+*.log
+certs/
+html/.well-known/
