@@ -3,3 +3,6 @@ Thumbs.db
 *.log
 certs/
 html/.well-known/
+
+_tools/
+
